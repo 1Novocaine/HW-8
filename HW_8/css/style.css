@@ -1,0 +1,33 @@
+.card-main {
+ position: absolute;
+ left: 50%;
+ top: 55%;
+ -webkit-transform: translate(-50%, -50%);
+ -moz-transform: translate(-50%, -50%);
+ -ms-transform: translate(-50%, -50%);
+ -o-transform: translate(-50%, -50%);
+ transform: translate(-50%, -50%);
+ width:200px; 
+ width:500px; 
+}
+
+.card-main {
+	text-align:center;
+}
+
+.card-secondary {
+ position: absolute;
+ left: 50%;
+ top: 45%;
+ -webkit-transform: translate(-50%, -50%);
+ -moz-transform: translate(-50%, -50%);
+ -ms-transform: translate(-50%, -50%);
+ -o-transform: translate(-50%, -50%);
+ transform: translate(-50%, -50%);
+ width:200px; 
+ width:500px; 
+}
+
+.card-secondary {
+	text-align:center;
+}
